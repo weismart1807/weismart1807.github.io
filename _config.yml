@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Weijhih HUANG"
+title                    : "Weijhih Huang"
 title_separator          : "-"
 name                     : &name "weijhih"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,8 +26,8 @@ author:
   avatar           : "profile_me.png"
   name             : "Weijhih HUANG"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Taiwan"
+  bio              : "Undergraduate Researcher"
+  location         : "Taoyuan, Taiwan"
   employer         : "National Central University"
   uri              : # URL
   email            : "weddy0718@gmail.com" 
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0009-0003-4058-4725"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : wei-jhih-huang-351454299/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
