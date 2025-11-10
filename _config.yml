@@ -23,7 +23,7 @@ repository               : "https://github.com/weismart1807/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_me_2.JPG"
+  avatar           : "profile_me_2.png"
   name             : "Weijhih HUANG (黃威智)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Researcher"
