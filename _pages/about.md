@@ -15,7 +15,7 @@ Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong a
 
 My research interests focus on:  
 * *AI-RAN for 6G: Hardware–Software Co-Design with Accelerators and Networks-on-Chip*
-* *Machine Learning for Digital Twin Networking Systems*
+* *Machine Learning for Digital Twin Wireless Networking Systems*
 * *Deep Reinforcement Learning for Resource Management and Allocation*  
 * *Graph Learning for EDA and Architecture-aware Design Space Exploration* 
 
