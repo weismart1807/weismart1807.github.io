@@ -17,7 +17,7 @@ My research interests focus on:
 * *AI-RAN for 6G: Hardware–Software Co-Design with Accelerators and Networks-on-Chip*
 * *Machine Learning for Digital Twin Wireless Networking Systems*
 * *Deep Reinforcement Learning for Resource Management and Allocation*  
-* *Graph Learning for EDA and Architecture-aware Design Space Exploration* 
+* *Graph Learning on Logic Synthesis and Timing Prediction for EDA* 
 
 ---
 
