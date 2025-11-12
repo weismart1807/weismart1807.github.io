@@ -24,7 +24,7 @@ My research interests focus on:
 
 ## News
 * **2025.09** – Joined Chunghwa Telecom as AI software intern.  
-* **2025.07** – Started summer research at CUHK (Prof. Bei Yu) on pre-synthesis timing prediction for EDA.  
+* **2025.07** – Started summer research at CUHK (Prof. Bei Yu) on EDA.  
 * **2025.06** – Awarded NSTC Undergraduate Research Fellowship (2025–2026).  
 * **2024.09** – Completed AI internship at ITRI, deploying LLM-based chatbot.  
 
@@ -34,6 +34,5 @@ My research interests focus on:
 ## Honors & Awards
 * **Undergraduate Research Fellowship**, NSTC (2025–2026)  
 * **Honorable Mention**, NCU Undergraduate Project Competition (2025)  
-* **Excellence Award**, NCU Club Evaluation (2024)  
-* **High Distinction**, Public Service Scholarship (2024)  
 
+---
