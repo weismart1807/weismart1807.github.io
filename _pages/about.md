@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in the [Department of Communication Engineering](https://www.ce.ncu.edu.tw/en) at National Central University, Taiwan. Currently, I am conducting undergraduate research under the supervision of [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang), focusing on **Deep Reinforcement Learning for Wireless Networking and Resource Allocation**. Looking ahead, I will advance **AI-RAN for 6G by linking wireless systems with on-chip architectures** through coordinated hardware and software design across accelerators and NoCs.
+I am a senior undergraduate student in the [Department of Communication Engineering](https://www.ce.ncu.edu.tw/en) at National Central University, Taiwan. Currently, I am conducting undergraduate research under the supervision of [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang), focusing on **Deep Reinforcement Learning for Wireless Networking and Resource Allocation**. 
 
-Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for electronic design automation. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (fall 2025–present), applying AI and LLM to system-level automation.  
+Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for EDA. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (fall 2025–present), developing LLM-powered applications and automation workflows.
  
 
 My research interests focus on:  
-* *AI-RAN for 6G: Hardware–Software Co-Design with Accelerators and Networks-on-Chip*
-* *Machine Learning for Digital Twin on Wireless Networking Systems*
-* *Deep Reinforcement Learning for Radio Resource Management and Allocation*  
-* *Graph Learning on Logic Synthesis and Timing Prediction for EDA* 
+* *Machine Learning for Next-generation Wireless Communication and Networking*
+* *Foundations and Algorithms of Generative Models and Deep Reinforcement Learning*  
+* *Graph-based Learning for Logic Synthesis and Timing Prediction in EDA* 
 
 ---
 
