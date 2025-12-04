@@ -31,8 +31,8 @@ Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong a
 
 # Honors & Awards
 * **Undergraduate Research Fellowship**, National Science and Technology Council (NSTC), 2025–2026 
-    * Project: *Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks*
-* **Honorable Mention**, Undergraduate Project Competition, Dept. of Communication Engineering, NCU, 2025 
-    * Project: *Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management*
+    * **Project:** *Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks*
+* **Honorable Mention**, Undergraduate Project Competition, Dept. of Communication Eng., NCU, 2025 
+    * **Project:** *Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management*
 
 ---
