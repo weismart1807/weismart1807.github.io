@@ -95,11 +95,13 @@ redirect_from:
   <div class="cv-section">
     <h2>Honors & Awards</h2>
     <ul class="cv-item-highlights">
-      <li><b>NSTC Undergraduate Research Fellowship</b>, Taiwan (2025–2026)</li>
-      <li><b>Honorable Mention</b>, NCU Undergraduate Project Competition (2025)</li>
-      <li><b>Excellence Award</b>, NCU Club Evaluation (2024)</li>
-      <li><b>High Distinction</b> & Public Service Scholarship, NCUgF (2024)</li>
-      <li><b>High Distinction Award</b>, Creativity & Entrepreneurship Course (2023)</li>
+      <li><b>Merit Award</b>, Individual Service-Learning Excellence Scholarship, NCU Center for Service Learning, 2025</li>
+      <li><b>Undergraduate Research Fellowship</b>, National Science & Technology Council (NSTC), Taiwan, 2025–2026</li>
+      <li><b>Honorable Mention</b>, Undergraduate Project Competition, Dept. of Communication Engineering, NCU, 2025</li>
+      <li><b>Excellence Award</b>, NCU Club Evaluation (as Presenter & President, NCUgF Rural Service Club), 2024</li>
+      <li><b>High Distinction & Public Service Scholarship</b>, NCU Center for Service Learning (as President, NCUgF), 2024</li>
+      <li><b>High Distinction Award</b>, “Original Textbook Discussion Forum” project, Creativity & Entrepreneurship Course, 2023</li>
+      
     </ul>
   </div>
 
