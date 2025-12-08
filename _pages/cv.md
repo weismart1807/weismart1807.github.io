@@ -101,7 +101,6 @@ redirect_from:
       <li><b>Excellence Award</b>, NCU Club Evaluation (as Presenter & President, NCUgF Rural Service Club), 2024</li>
       <li><b>High Distinction & Public Service Scholarship</b>, NCU Center for Service Learning (as President, NCUgF), 2024</li>
       <li><b>High Distinction Award</b>, “Original Textbook Discussion Forum” project, Creativity & Entrepreneurship Course, 2023</li>
-      
     </ul>
   </div>
 
