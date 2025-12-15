@@ -58,7 +58,7 @@ redirect_from:
   <div class="cv-item">
     <div class="cv-item-header">
       <span class="cv-item-title"><b>AI Software Intern</b></span>
-      <span class="cv-item-date">Sep 2025 – Current</span>
+      <span class="cv-item-date">Sep - Dec 2025</span>
     </div>
     <div class="cv-item-subtitle"><i>Chunghwa Telecom, Taiwan</i></div>
     <ul class="cv-item-highlights">
