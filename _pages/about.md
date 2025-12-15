@@ -21,7 +21,7 @@ Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong a
 
 
 # News
-* **2025.12** – Completed AI software internship at Chunghwa Telecom.
+* **2025.12** – Completed AI software internship at Chunghwa Telecom, building an n8n-based AI automation system.
 * **2025.09** – Joined Chunghwa Telecom as AI software intern.  
 * **2025.07** – Started summer research at CUHK (Prof. Bei Yu) on EDA.  
 * **2025.06** – Awarded NSTC Undergraduate Research Fellowship (2025–2026).  
