@@ -14,8 +14,8 @@ Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong a
  
 ### My research interests focus on:  
 * *Machine Learning for Next-generation Wireless Communication and Networking*
-* *Foundations and Algorithms of Generative Models and Deep Reinforcement Learning*  
-* *Graph-based Learning for Logic Synthesis and Timing Prediction in EDA* 
+* *Probabilistic Generative Models for Robust Decision Making and Policy Adaptation*  
+* *Graph-based Deep Learning and Representation for Complex Networked Systems* 
 
 ---
 
