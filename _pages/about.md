@@ -13,7 +13,7 @@ I am a senior undergraduate student in the Department of Communication Engineeri
 Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for EDA. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (Hsinchu, summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (Taipei, Sep–Dec 2025), developing LLM-powered applications and automation workflows.
  
 ### My research interests focus on:  
-* *Machine Learning for Next-generation Wireless Communication and Networking*
+* *Machine Learning for Next-generation Wireless Networking and AI-RAN*
 * *Probabilistic Generative Models for Robust Decision Making and Policy Adaptation*  
 * *Graph-based Deep Learning and Representation for Complex Networked Systems* 
 
