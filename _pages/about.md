@@ -31,16 +31,13 @@ Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong a
 
 
 # Research Experience
-* Research Assistant (Incoming) @ National Taiwan University (NTU)
-  * Advisor: Prof. Hung-Yu Wei
-  * Mar 2026 – Present
-* Undergraduate Research Student @ National Central University (NCU)
-  * Advisor: Prof. Chih-Wei Huang
-  * Feb 2024 – Present
-* Summer Research Student @ Chinese University of Hong Kong (CUHK)
-  * Advisor: Prof. Bei Yu
-  * Jul 2025 – Sep 2025 (Summer 2025)
-  
+* **Research Assistant *(Incoming)* @ National Taiwan University (NTU)**
+  * Advisor: Prof. Hung-Yu Wei, Mar 2026 – Present
+* **Undergraduate Research Student @ National Central University (NCU)**
+  * Advisor: Prof. Chih-Wei Huang, Feb 2024 – Present
+* **Summer Research Student @ Chinese University of Hong Kong (CUHK)**
+  * Advisor: Prof. Bei Yu, Summer 2025
+
 ---
 
 
