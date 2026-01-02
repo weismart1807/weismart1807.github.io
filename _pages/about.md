@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in the Department of Communication Engineering at National Central University, Taiwan. Currently, I am conducting undergraduate research under the supervision of [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang), focusing on Deep Reinforcement Learning for Wireless Networking and Resource Allocation. Building on this foundation, I will join National Taiwan University in March 2026 as a Research Assistant, focusing on AI-RAN under the guidance of [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
+I am a senior undergraduate student in Communication Engineering at National Central University, Taiwan. Currently, I am conducting undergraduate research under the supervision of [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang), focusing on Deep Reinforcement Learning for Wireless Networking and Resource Allocation. Next, I will join National Taiwan University in March 2026 as a Research Assistant, focusing on AI-RAN under the guidance of [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
 
 Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for EDA. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (Hsinchu, summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (Taipei, Sep–Dec 2025), developing LLM-powered applications and automation workflows.
  
