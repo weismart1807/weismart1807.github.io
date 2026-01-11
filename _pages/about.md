@@ -8,24 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Next, I will join National Taiwan University (NTU) in March 2026 as a Research Assistant to focus on AI-RAN with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
+I am a senior undergraduate in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Next, I will join National Taiwan University (NTU) in March 2026 as a Research Assistant to focus on 6G AI-RAN with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
 
-Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong (CUHK) as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for EDA. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (Hsinchu, summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (Taipei, Sep–Dec 2025).
+During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong (CUHK), advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for electronic design automation (EDA). I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (ITRI, Hsinchu, summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (CHT, Taipei, Sep–Dec 2025).
  
 ### My research interests focus on:  
-* *AI-Native Wireless Networking and AI-RAN*
-* *Cross-Layer Resource Allocation via Constrained DRL*  
-* *Deep Generative Models for OOD Detection and Adaptive Learning* 
+* *6G AI-Native Wireless Networking and AI-RAN*
+* *Cross-Layer Resource Allocation and Optimization via Constrained Deep Reinforcement Learning*  
+* *Deep Generative Models for Out-of-Distribution (OOD) Detection and Adaptive Learning* 
 
 ---
 
 
 # News
-* **2025.12** – Completed AI software internship at CHT, building an n8n-based AI automation system.
-* **2025.09** – Joined Chunghwa Telecom as AI software intern.  
-* **2025.07** – Started summer research at CUHK (Prof. Bei Yu) on EDA.  
-* **2025.06** – Awarded NSTC Undergraduate Research Fellowship (2025–2026).  
-* **2024.09** – Completed AI internship at ITRI, deploying LLM-based chatbot.  
+- **2025.12** – Completed AI software development internship at Chunghwa Telecom (CHT), building an n8n-based AI automation system.
+- **2025.09** – Joined Chunghwa Telecom as an AI software development intern.
+- **2025.07** – Began summer research at the Chinese University of Hong Kong (CUHK) (Prof. Bei Yu) on electronic design automation (EDA).
+- **2025.06** – Awarded National Science and Technology Council (NSTC) Undergraduate Research Fellowship (2025–2026).
+- **2024.09** – Completed AI internship at the Industrial Technology Research Institute (ITRI), deploying an LLM-based chatbot.
 
 ---
 
