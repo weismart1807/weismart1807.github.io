@@ -5,9 +5,7 @@ permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking Ph.D. opportunities starting in Fall 2027 at the intersection of machine learning and wireless/networked systems, with a focus on next-generation wireless communications and intelligent resource management.
-
-During my Ph.D., I plan to pursue a **bidirectional research agenda** between AI and networking.
+I am seeking Ph.D. opportunities starting in Fall 2027 at the intersection of machine learning and wireless networking systems, with a focus on next-generation wireless communications and intelligent resource management. During my Ph.D., I plan to pursue a **bidirectional research agenda** between AI and networking.
 
 ## AI-Driven Wireless and Networking
 
