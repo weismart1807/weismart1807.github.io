@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Next, I will join National Taiwan University (NTU) in March 2026 as a Research Assistant to focus on AI-RAN with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
+I am a senior undergraduate in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Next, I will join National Taiwan University (NTU) in March 2026 as a Research Assistant to focus on AI-RAN with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
 
 Fortunately, I spent the summer of 2025 at the Chinese University of Hong Kong (CUHK) as a Summer Research Student advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for EDA. I also interned at the [Industrial Technology Research Institute](https://www.itri.org.tw/english/) (Hsinchu, summer 2024) and [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) (Taipei, Sep–Dec 2025).
  
