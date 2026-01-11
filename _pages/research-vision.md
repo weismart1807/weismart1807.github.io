@@ -9,11 +9,11 @@ I am seeking Ph.D. opportunities starting in Fall 2027 at the intersection of ma
 
 ## AI-Driven Wireless and Networking
 
-I will continue developing intelligent algorithms for next-generation wireless systems, particularly **6G AI-RAN** (AI-Native Radio Access Networks). My research addresses cross-layer resource optimization using constrained deep reinforcement learning to handle throughput-memory tradeoffs and dynamic user mobility, adaptive learning mechanisms that detect distribution shifts and trigger efficient fine-tuning, and hybrid frameworks combining model-free reinforcement learning with Lyapunov optimization for stability guarantees. These techniques extend to broader networking challenges including congestion control, network slicing, and distributed edge computing.
+I will continue developing *intelligent algorithms for next-generation wireless systems, particularly 6G AI-RAN* (AI-Native Radio Access Networks). My research addresses cross-layer resource optimization using constrained deep reinforcement learning to handle throughput-memory tradeoffs and dynamic user mobility, adaptive learning mechanisms that detect distribution shifts and trigger efficient fine-tuning, and hybrid frameworks combining model-free reinforcement learning with Lyapunov optimization for stability guarantees. These techniques extend to broader networking challenges including congestion control, network slicing, and distributed edge computing.
 
 ## Wireless- and Networking-Driven AI
 
-I am equally interested in **using communication constraints to advance machine learning theory**. Wireless systems present unique challenges including limited bandwidth, time-varying channels, partial observability, and strict latency requirements that inspire new learning paradigms. My work explores out-of-distribution detection via generative models to identify scenario shifts and trigger adaptation, few-shot and meta-learning for rapid network reconfiguration with minimal data, and communication-efficient distributed learning through gradient compression and asynchronous federated learning over wireless networks.
+I am equally interested in *using communication constraints to advance machine learning theory*. Wireless systems present unique challenges including limited bandwidth, time-varying channels, partial observability, and strict latency requirements that inspire new learning paradigms. My work explores out-of-distribution detection via generative models to identify scenario shifts and trigger adaptation, few-shot and meta-learning for rapid network reconfiguration with minimal data, and communication-efficient distributed learning through gradient compression and asynchronous federated learning over wireless networks.
 
 ## Perspective
 
