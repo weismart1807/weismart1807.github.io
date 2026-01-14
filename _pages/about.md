@@ -21,6 +21,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 
 
 # News
+- **2026.01** – Our paper *“Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management”* was accepted to the IEEE Wireless Communications and Networking Conference (WCNC) 2026.
 - **2025.12** – Completed AI software development internship at Chunghwa Telecom (CHT), building an n8n-based AI automation system.
 - **2025.09** – Joined Chunghwa Telecom as an AI software development intern.
 - **2025.07** – Began summer research at the Chinese University of Hong Kong (CUHK) (Prof. Bei Yu) on electronic design automation (EDA).
