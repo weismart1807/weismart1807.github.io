@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under [Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). I will join National Taiwan University (NTU) in March 2026 as a Research Assistant, focusing on 6G AI-RAN with [Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
+I am a senior undergraduate in Communication Engineering at National Central University (NCU), Taiwan, researching DRL-based wireless resource management under **[Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. I will join National Taiwan University (NTU) in March 2026 as a Research Assistant, focusing on 6G AI-RAN with **[Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
-During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong (CUHK), advised by [Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for electronic design automation (EDA). I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
+During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong (CUHK), advised by **[Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation (EDA). I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
  
 ### My research interests focus on:  
 * *6G AI-Native Wireless Networking and AI-RAN*
