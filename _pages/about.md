@@ -21,11 +21,11 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 
 
 # News
-- 2026.01 – 🎉 Paper accepted to IEEE WCNC 2026: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management" (First author).
-- 2025.12 – 👨‍💻 Completed AI software development internship at Chunghwa Telecom (CHT), building an n8n-based AI automation system.
-- 2025.07 – 🔬 Began summer research at the Chinese University of Hong Kong (CUHK) with Prof. Bei Yu on electronic design automation (EDA).
-- 2025.06 – 🏆 Awarded National Science and Technology Council (NSTC) Undergraduate Research Fellowship (2025–2026).
-- 2024.09 – 👨‍💻 Completed AI software internship at the Industrial Technology Research Institute (ITRI), deploying an LLM-based chatbot.
+- **2026.01** – 🎉 ****Paper accepted to IEEE WCNC 2026****: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management" (First author).
+- **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom (CHT), building an n8n-based AI automation system.
+- **2025.07** – 🔬 Began summer research at the Chinese University of Hong Kong (CUHK) with Prof. Bei Yu on electronic design automation (EDA).
+- **2025.06** – 🏆 Awarded National Science and Technology Council (NSTC) Undergraduate Research Fellowship (2025–2026).
+- **2024.09** – 👨‍💻 Completed AI software internship at the Industrial Technology Research Institute (ITRI), deploying an LLM-based chatbot.
 
 
 ---
