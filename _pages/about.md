@@ -23,7 +23,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 # News
 - **2026.01** – 🎉 ***Paper accepted to IEEE WCNC 2026***: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management" (First author).
 - **2025.12** – 👨‍💻 Completed AI software development internship at CHT, developing a RAG-based agentic project management system.
-- **2025.07** – 🔬 Began summer research at the CUHK with Prof. Bei Yu on EDA.
+- **2025.07** – 🔬 Began summer research at the CUHK with Prof. Bei Yu on graph learning for EDA.
 - **2025.06** – 🏆 Awarded National Science and Technology Council Undergraduate Research Fellowship.
 - **2024.09** – 👨‍💻 Completed AI software internship at the ITRI deploying an LLM-based chatbot.
 
