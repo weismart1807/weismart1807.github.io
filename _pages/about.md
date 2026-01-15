@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior undergraduate in Communication Engineering at National Central University, Taiwan, researching DRL-based wireless resource management under **[Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. I will join National Taiwan University, Taiwan, in March 2026 as a Research Assistant, focusing on 6G AI-RAN under **[Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
-During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong (CUHK), advised by **[Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation (EDA). I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
+During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, advised by **[Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
  
 ### My research interests focus on:  
 * *6G AI-Native Wireless Networking and AI-RAN*
@@ -22,10 +22,10 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 
 # News
 - **2026.01** – 🎉 ***Paper accepted to IEEE WCNC 2026***: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management" (First author).
-- **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom (CHT), building an n8n-based AI automation system.
-- **2025.07** – 🔬 Began summer research at the Chinese University of Hong Kong (CUHK) with Prof. Bei Yu on electronic design automation (EDA).
-- **2025.06** – 🏆 Awarded National Science and Technology Council (NSTC) Undergraduate Research Fellowship (2025–2026).
-- **2024.09** – 👨‍💻 Completed AI software internship at the Industrial Technology Research Institute (ITRI), deploying an LLM-based chatbot.
+- **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom, building an n8n-based AI automation system.
+- **2025.07** – 🔬 Began summer research at the CUHK with Prof. Bei Yu on EDA.
+- **2025.06** – 🏆 Awarded National Science and Technology Council Undergraduate Research Fellowship.
+- **2024.09** – 👨‍💻 Completed AI software internship at the ITRI deploying an LLM-based chatbot.
 
 
 ---
