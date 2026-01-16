@@ -32,15 +32,15 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 
 
 # Research Experience
-* ***(Incoming)* Research Assistant** @National Taiwan University (NTU)
+* ***(Incoming)* Research Assistant** @National Taiwan University, Starting Mar 2026
   * Focus: Game Theory-Enhanced DRL-based Cross-Layer Optimization in 6G AI-RAN
-  * Advisor: Prof. Hung-Yu Wei, Starting Mar 2026
-* **Undergraduate Research Student** @National Central University (NCU)
+  * Advisor: Prof. Hung-Yu Wei
+* **Undergraduate Research Student** @National Central University, Feb 2024 – Present
   * Focus: DRL for Cross-Layer Wireless Resource Allocation and DGM for Fine-tuning Triggering
-  * Advisor: Prof. Chih-Wei Huang, Feb 2024 – Present
-* **Summer Research Student** @Chinese University of Hong Kong (CUHK)
+  * Advisor: Prof. Chih-Wei Huang
+* **Summer Research Student** @Chinese University of Hong Kong, Summer 2025
   * Focus: Transformer-Enhanced Deep Graph Learning for Timing Prediction in Logic Synthesis
-  * Advisor: Prof. Bei Yu, Summer 2025
+  * Advisor: Prof. Bei Yu
 
 ---
 
