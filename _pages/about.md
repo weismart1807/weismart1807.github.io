@@ -15,7 +15,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 ### My research interests focus on:  
 * *AI-Native Wireless Networks and Next-Generation Radio Access Networks*
 * *Deep Reinforcement Learning for Cross-Layer Resource Allocation and Optimization*  
-* *Generative AI for Out-of-Distribution Detection and Continual Learning* 
+* *Generative AI for Out-of-Distribution Detection and Adaptive Learning* 
 
 ---
 
