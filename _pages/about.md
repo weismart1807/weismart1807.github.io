@@ -13,9 +13,9 @@ I am a senior undergraduate in Communication Engineering at National Central Uni
 During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, Hong Kong, advised by **[Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom (CHT)](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/english/) for AI application.
  
 ### My research interests focus on:  
-* *Next Generation AI-Native Radio Access Network and Wireless Networking*
-* *Learning based Cross-Layer Resource Allocation and Optimization*  
-* *Deep Generative Models for Out-of-Distribution Detection and Adaptive Learning* 
+* *AI-Native Wireless Networks and Next-Generation Radio Access Networks*
+* *Deep Reinforcement Learning for Cross-Layer Resource Allocation and Optimization*  
+* *Generative AI for Out-of-Distribution Detection and Continual Learning* 
 
 ---
 
