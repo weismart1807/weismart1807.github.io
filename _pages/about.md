@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in Communication Engineering at National Central University, Taiwan, researching DRL-based wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. I will join National Taiwan University, Taiwan, in March 2026 as a Research Assistant, focusing on 6G AI-RAN under **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
+I am a senior undergraduate in Communication Engineering at National Central University, Taiwan, researching DRL-based wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. In March 2026, I will join National Taiwan University, Taiwan, as a Research Assistant, focusing on 6G AI-RAN under **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
 During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
  
@@ -48,7 +48,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 # Honors & Awards
 * **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
     * **Project:** *Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks*
-* **Honorable Mention**, Project Competition, Dept. of Communication Engineering, NCU, 2025 
+* **Honorable Mention**, Project Competition, Dept. of Communication Eng., NCU, 2025 
     * **Project:** *Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management*
 
 ---
