@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate in Communication Engineering at National Central University, Taiwan, researching DRL-based wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. In March 2026, I will join National Taiwan University, Taiwan, as a Research Assistant, focusing on 6G AI-RAN under **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
+I am an undergraduate researcher in Communication Engineering at 
+National Central University, Taiwan, working on deep reinforcement 
+learning for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. I will join National Taiwan University as a Research Assistant in 
+March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
 During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
  
@@ -34,13 +37,13 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 # Research Experience
 * ***(Incoming)* Research Assistant** @National Taiwan University
   * Starting Mar 2026, Advisor: Prof. Hung-Yu Wei
-  * Focus: Game Theory-Enhanced DRL-based Cross-Layer Optimization in 6G AI-RAN
+  * Focus: AI-RAN and Cross-Layer Optimization in 6G Networks
 * **Undergraduate Research Student** @National Central University
   * Feb 2024 – Present, Advisor: Prof. Chih-Wei Huang
-  * Focus: DRL for Cross-Layer Wireless Resource Allocation
+  * Focus: Deep Reinforcement Learning for Wireless Resource Management
 * **Summer Research Student** @Chinese University of Hong Kong
   * Summer 2025, Advisor: Prof. Bei Yu
-  * Focus: Deep Graph Learning for Timing Prediction in Logic Synthesis
+  * Focus: Graph Neural Networks for Timing Prediction in Logic Synthesis
 
 ---
 
@@ -48,7 +51,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 # Honors & Awards
 * **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
     * **Project:** *Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks*
-* **Honorable Mention**, Project Competition, Dept. of Communication Eng., NCU, 2025 
+* **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
     * **Project:** *Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management*
 
 ---
