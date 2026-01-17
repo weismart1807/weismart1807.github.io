@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate researcher in Communication Engineering at 
-National Central University, Taiwan, working on AI for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. *Next*, I will join National Taiwan University as a Research Assistant in 
-March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
+I am currently an undergraduate researcher in Communication Engineering at National Central University, Taiwan, where I will graduate in 2026. I work on AI for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. *Next*, I will join National Taiwan University as a Research Assistant in March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
 During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/) for AI application.
  
