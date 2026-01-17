@@ -9,11 +9,10 @@ redirect_from:
 ---
 
 I am an undergraduate researcher in Communication Engineering at 
-National Central University, Taiwan, working on deep reinforcement 
-learning for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. I will join National Taiwan University as a Research Assistant in 
+National Central University, Taiwan, working on DRL for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. *Next*, I will join National Taiwan University as a Research Assistant in 
 March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
-During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
+During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. I also interned at the [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [Industrial Technology Research Institute](https://www.itri.org.tw/english/) for AI application.
  
 ### My research interests focus on:  
 * *AI-Native Wireless Networks and Next-Generation Radio Access Networks*
