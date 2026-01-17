@@ -37,10 +37,10 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
   * Focus: Game Theory-Enhanced DRL-based Cross-Layer Optimization in 6G AI-RAN
 * **Undergraduate Research Student** @National Central University
   * Feb 2024 – Present, Advisor: Prof. Chih-Wei Huang
-  * Focus: DRL for Cross-Layer Wireless Resource Allocation and DGM for Fine-tuning Triggering
+  * Focus: DRL for Cross-Layer Wireless Resource Allocation
 * **Summer Research Student** @Chinese University of Hong Kong
   * Summer 2025, Advisor: Prof. Bei Yu
-  * Focus: Transformer-Enhanced Deep Graph Learning for Timing Prediction in Logic Synthesis
+  * Focus: Deep Graph Learning for Timing Prediction in Logic Synthesis
 
 ---
 
