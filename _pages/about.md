@@ -23,8 +23,8 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 # News
 - **2026.01** – 🎉 ***Paper accepted to IEEE WCNC 2026***: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management" (First author).
 - **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom.
-- **2025.07** – 🔬 Began summer research at the CUHK with Prof. Bei Yu on graph learning for EDA.
-- **2025.06** – 🏆 Awarded National Science and Technology Council Undergraduate Research Fellowship.
+- **2025.07** – 🔬 Began summer research at the CUHK on graph learning for EDA.
+- **2025.06** – 🏆 Awarded NSTC Undergraduate Research Fellowship.
 - **2024.09** – 👨‍💻 Completed AI software internship at Industrial Technology Research Institute.
 
 
@@ -46,9 +46,9 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 
 
 # Honors & Awards
-* **Undergraduate Research Fellowship**, National Science and Technology Council, 2025–2026 
+* **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
     * **Project:** *Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks*
-* **Honorable Mention**, Project Competition, Dept. of Communication Eng., NCU, 2025 
+* **Honorable Mention**, Project Competition, Dept. of Communication Engineering, NCU, 2025 
     * **Project:** *Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management*
 
 ---
