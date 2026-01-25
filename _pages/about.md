@@ -25,7 +25,7 @@ During the summer of 2025, I was a Summer Research Student at the Chinese Univer
 - **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom.
 - **2025.07** – 🔬 Began summer research at the CUHK on graph learning for EDA.
 - **2025.06** – 🏆 Awarded NSTC Undergraduate Research Fellowship.
-- **2024.09** – 👨‍💻 Completed AI software internship at ITRI.
+- **2024.09** – 👨‍💻 Completed AI software summer internship at ITRI.
 
 
 ---
