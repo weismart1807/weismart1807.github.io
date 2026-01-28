@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate researcher in [Communication Engineering at National Central University](https://www.ce.ncu.edu.tw/en), Taiwan, where I will graduate in 2026. Currently, I work on AI for wireless resource management under **[Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)**. *Next*, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as a Undergraduate Research Assistant in March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
+I am an senior undergraduate researcher in [Communication Engineering at National Central University](https://www.ce.ncu.edu.tw/en), Taiwan, where I will graduate in 2026. Currently, I work on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). *Next*, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as a undergraduate research assistant in March 2026, focusing on 6G AI-RAN with **[Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)**.
 
-During the summer of 2025, I was a Summer Research Student at the Chinese University of Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. In addition to my research, I also held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/), focusing on system automation and AI application.
+During the summer of 2025, I was a summer research student at the Chinese University of Hong Kong, advised by **[Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)**, working on graph learning for electronic design automation. In addition to my research, I also held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/), focusing on system automation and AI application.
  
 ### My research interests focus on:  
 * *AI-Native Wireless Networking and Next-Generation Radio Access Networks*
