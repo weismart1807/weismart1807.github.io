@@ -14,7 +14,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 *Starting in March 2026*, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as an undergraduate research assistant, focusing on 6G AI-RAN Orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
  
-**My research interests include:**
+### My research interests include:
 * *AI-Native Wireless Networking and Next-Generation Radio Access Networks*
 * *Cross-Layer Resource Allocation and Optimization via Deep Reinforcement Learning*  
 * *Deep Generative Models for Out-of-Distribution Detection and Adaptive Learning* 
