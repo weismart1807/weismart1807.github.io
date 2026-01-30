@@ -35,13 +35,13 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 # Research Experience
 * *(Incoming)* **Undergraduate Research Assistant** @National Taiwan University
-  * *Starting Mar 2026, Advisor: Prof. Hung-Yu Wei*
+  * *Starting Mar 2026, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)*
   * **Focus:** AI-RAN and Cross-Layer Optimization in 6G Networks
 * **Undergraduate Research Student** @National Central University
-  * *Feb 2024 – Present, Advisor: Prof. Chih-Wei Huang*
+  * *Feb 2024 – Present, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)*
   * **Focus:** Deep Reinforcement Learning for Wireless Resource Management
 * **Summer Research Student** @Chinese University of Hong Kong
-  * *Summer 2025, Advisor: Prof. Bei Yu*
+  * *Summer 2025, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)*
   * **Focus:** Graph Neural Networks for Timing Prediction in Logic Synthesis
 
 ---
