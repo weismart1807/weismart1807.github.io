@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate researcher in [Communication Engineering at National Central University](https://www.ce.ncu.edu.tw/en), Taiwan, where I will graduate in June 2026. Currently, I work on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). 
-
-***Starting in March 2026***, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as an undergraduate research assistant, focusing on 6G AI-RAN Orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
+I am an undergraduate researcher in [Communication Engineering at National Central University](https://www.ce.ncu.edu.tw/en), Taiwan, where I will graduate in 2026. Currently, I work on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). 
 
 During the summer of 2025, I was a summer research student at the Chinese University of Hong Kong, advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/), working on graph learning for electronic design automation. In addition to my research, I also held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/), focusing on system automation and AI application.
 
+*Starting in March 2026*, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as an undergraduate research assistant, focusing on 6G AI-RAN Orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
  
-### My research interests include: 
+**My research interests include:**
 * *AI-Native Wireless Networking and Next-Generation Radio Access Networks*
 * *Cross-Layer Resource Allocation and Optimization via Deep Reinforcement Learning*  
 * *Deep Generative Models for Out-of-Distribution Detection and Adaptive Learning* 
@@ -35,7 +34,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Research Experience
-* ***(Incoming)* Undergraduate Research Assistant** @National Taiwan University
+* *(Incoming)* **Undergraduate Research Assistant** @National Taiwan University
   * *Starting Mar 2026, Advisor: Prof. Hung-Yu Wei*
   * **Focus:** AI-RAN and Cross-Layer Optimization in 6G Networks
 * **Undergraduate Research Student** @National Central University
