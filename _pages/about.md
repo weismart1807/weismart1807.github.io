@@ -34,14 +34,14 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Research Experience
-* *(Incoming)* **Undergraduate Research Assistant** @National Taiwan University
-  * *Starting April 2026, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)*
+* *(Incoming)* **Undergraduate Research Assistant**, starting April 2026
+  * *National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)*
   * *Focusing on AI-RAN and Cross-Layer Optimization in 6G Networks*
-* **Undergraduate Research Student** @National Central University
-  * *Feb 2024 – Present, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)*
+* **Undergraduate Research Student**, Feb 2024 – Present
+  * *National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)*
   * *Focusing on Deep Reinforcement Learning for Wireless Resource Management*
-* **Summer Research Student** @Chinese University of Hong Kong
-  * *Summer 2025, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)*
+* **Summer Research Student**, summer 2025
+  * *Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)*
   * *Focusing on Graph Neural Networks for Timing Prediction in Logic Synthesis*
 
 ---
@@ -57,7 +57,9 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Industry Experience
-* **AI Software Intern** @Chunghwa Telecom, Sep - Dec 2025
+* **AI Software Intern**, Sep - Dec 2025
+  * Chunghwa Telecom
   * Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by 33%.
-* **AI Software Summer Intern** @Industrial Technology Research Institute (ITRI), Jun – Sep 2024
+* **AI Software Summer Intern**, Jun – Sep 2024
+  * Industrial Technology Research Institute (ITRI)
   * Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by 50% for 24/7 automated support.
