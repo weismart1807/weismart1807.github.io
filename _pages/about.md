@@ -54,3 +54,12 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
     * **Project:** Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management
 
 ---
+
+
+# Research Experience
+* **AI Software Intern** @Chunghwa Telecom
+  * *Sep - Dec 2025*
+  * *Built and deployed an LLM-based service chatbot at Taipei Songshan Sports Center for 24/7 customer support.* 
+* **AI Software Intern** @Industrial Technology Research Institute (ITRI)
+  * *Jun – Sep 2024*
+  * *Developed workflow automation solutions using n8n integrated with LLMs to support enterprise-oriented applications.*
