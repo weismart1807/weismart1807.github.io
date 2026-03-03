@@ -48,7 +48,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Honors & Awards
-* **Undergraduate Research Fellowship** | NSTC, Taiwan, 2025–2026 
+* **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
     * *"Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks"*
 * **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
     * *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
@@ -57,9 +57,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Industry Experience
-* **AI Software Intern**, Sep - Dec 2025
-  * *Chunghwa Telecom*
+* Sep - Dec 2025, **AI Software Intern**, Chunghwa Telecom
   * *Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by 33%.*
-* **AI Software Summer Intern**, Jun – Sep 2024
-  * *Industrial Technology Research Institute (ITRI)*
+* Jun – Sep 2024, **AI Software Summer Intern**, Industrial Technology Research Institute (ITRI)
   * *Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by 50% for 24/7 automated support.*
