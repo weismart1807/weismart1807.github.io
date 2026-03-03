@@ -34,7 +34,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Research Experience
-* *(Incoming)* **Undergraduate Research Assistant**, starting April 2026
+* *(Incoming)* **Research Assistant**, starting April 2026
   * *National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)*
   * *Focusing on AI-RAN and Cross-Layer Optimization in 6G Networks*
 * **Undergraduate Research Student**, Feb 2024 – Present
