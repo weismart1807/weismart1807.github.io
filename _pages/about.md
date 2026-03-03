@@ -60,4 +60,4 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 * **AI Software Intern** @Chunghwa Telecom, Sep - Dec 2025
   * Built and deployed an LLM-based service chatbot at Taipei Songshan Sports Center for 24/7 customer support.
 * **AI Software Summer Intern** @Industrial Technology Research Institute (ITRI), Jun – Sep 2024
-  * Developed workflow automation solutions using n8n integrated with LLMs to support enterprise-oriented applications.
+  *  Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot at Taipei Songshan Sports Center; optimized backend processing to reduce latency by 50% for 24/7 automated customer support.
