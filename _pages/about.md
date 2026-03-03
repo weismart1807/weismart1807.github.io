@@ -48,7 +48,7 @@ During the summer of 2025, I was a summer research student at the Chinese Univer
 
 
 # Honors & Awards
-* **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
+* **Undergraduate Research Fellowship** | NSTC, Taiwan, 2025–2026 
     * *"Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks"*
 * **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
     * *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
