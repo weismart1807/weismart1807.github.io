@@ -39,7 +39,7 @@ I am an undergraduate researcher in [Communication Engineering at National Centr
   * *National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)*
   * *Focusing on Deep Reinforcement Learning for Wireless Resource Management*
 * **Summer Research Student**, summer 2025
-  * *Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)*
+  * *The Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)*
   * *Focusing on Graph Neural Networks for Timing Prediction in Logic Synthesis*
 
 ---
