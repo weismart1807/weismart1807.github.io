@@ -404,12 +404,12 @@
 /* 更強的選擇器 - 針對 markdown 生成的列表 */
 article.page .page__content ul li,
 article.page .page__content ol li {
-  font-size: 14px !important;
+  font-size: 10px !important;
   line-height: 1.6;
 }
 
 /* 確保所有層級都套用 */
 .page__inner-wrap .page__content ul li,
 .page__inner-wrap .page__content ol li {
-  font-size: 14px !important;
+  font-size: 10px !important;
 }
