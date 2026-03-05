@@ -404,9 +404,7 @@
 /* 列點字體縮小 */
 .page__content ul li,
 .page__content ol li {
-  font-size: 14px;  /* 絕對大小 */
-  /* 或 */
-  font-size: 0.875em;  /* 相對大小，是父元素的 87.5% */
+  font-size: 14px;  
 }
 
 /* 如果只想縮小第一層列點 */
