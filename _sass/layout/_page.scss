@@ -400,3 +400,23 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* 列點字體縮小 */
+.page__content ul li,
+.page__content ol li {
+  font-size: 14px;  /* 絕對大小 */
+  /* 或 */
+  font-size: 0.875em;  /* 相對大小，是父元素的 87.5% */
+}
+
+/* 如果只想縮小第一層列點 */
+.page__content > ul > li,
+.page__content > ol > li {
+  font-size: 14px;
+}
+
+/* 巢狀列點（第二層）更小 */
+.page__content ul ul li,
+.page__content ol ol li {
+  font-size: 13px;
+}
