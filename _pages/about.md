@@ -55,10 +55,10 @@ I am an undergraduate researcher in [Communication Engineering at National Centr
 
 
 # Industry Experience
-  ## Chunghwa Telecom
+##### Chunghwa Telecom
 * ***AI Software Intern**, Sep - Dec 2025*
 * *Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by 33%.*
 
-  ## Industrial Technology Research Institute (ITRI)
+#### Industrial Technology Research Institute (ITRI)
 * ***AI Software Summer Intern**, Jun – Sep 2024*
 * *Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by 50% for 24/7 automated support.*
