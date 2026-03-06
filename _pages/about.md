@@ -17,10 +17,10 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 # News
 - **2026.01** – 🎉 **My first paper accepted to IEEE WCNC 2026** (First author): *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
-- **2025.12** – 👨‍💻 Completed AI software development internship at Chunghwa Telecom.
-- **2025.07** – 🔬 Began summer research at the CUHK on graph learning for EDA.
+- **2025.12** – Completed AI software development internship at Chunghwa Telecom.
+- **2025.07** – Began summer research at the CUHK on graph learning for EDA.
 - **2025.06** – 🏆 Awarded NSTC Undergraduate Research Fellowship.
-- **2024.09** – 👨‍💻 Completed AI software summer internship at ITRI.
+- **2024.09** – Completed AI software summer internship at ITRI.
 
 
 ---
