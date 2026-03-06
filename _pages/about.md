@@ -10,7 +10,7 @@ redirect_from:
 
 I am an undergraduate researcher in [Communication Engineering at National Central University](https://www.ce.ncu.edu.tw/en), Taiwan, graduating in 2026. Currently, I work on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang).  During the summer of 2025, I was a summer research student at the Chinese University of Hong Kong, advised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/). In addition to my research, I also held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/), focusing on system automation and AI application.
  
-My research interests focus on **AI-native wireless networking**, **learning-based resource optimization**, and **deep generative models for adaptive learning.**
+My research interests focus on **AI-native wireless networking**, **learning-based resource optimization**, and **out-of-distribution detection for adaptive learning.**
 
 ---
 
