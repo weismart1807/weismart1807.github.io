@@ -12,10 +12,7 @@ I am an undergraduate researcher in [Communication Engineering at National Centr
 
 *Starting in April 2026*, I will join [Wireless Mobile Network Lab at National Taiwan University](https://wmnlab.ee.ntu.edu.tw/lab/about.html), Taiwan, as an undergraduate research assistant, focusing on 6G AI-RAN Orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/).
  
-### My research interests include:
-* *AI-Native Wireless Networking and Next-Generation Radio Access Networks*
-* *Learning-Based Cross-Layer Resource Allocation and Optimization*  
-* *Deep Generative Models for Out-of-Distribution Detection and Adaptive Learning* 
+My research interests focus on **AI-native wireless networking and next-generation radio access networks, learning-based cross-layer resource allocation and optimization**, and **deep generative models for out-of-distribution detection and adaptive learning.**
 
 ---
 
