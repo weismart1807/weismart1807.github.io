@@ -16,6 +16,8 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 
 # News
+- **2026.04** – 🏆 Awarded NCU Outstanding Student Scholarship.
+- **2026.03** – 🏆 Awarded Taiwan Outstanding College Youth Award (School Level).
 - **2026.01** – 🎉 **First-author paper accepted to IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
 - **2025.12** – Completed AI software development internship at Chunghwa Telecom.
 - **2025.07** – Began summer research at the CUHK on graph learning for EDA.
