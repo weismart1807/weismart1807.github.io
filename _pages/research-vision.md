@@ -11,7 +11,7 @@ I am seeking Ph.D. opportunities starting in Fall 2027. My research interest lie
 
 Current virtualized RAN systems largely separate communication protocols from computation, leading to inefficient task offloading and excessive data movement under dynamic conditions. I am interested in whether learning-based mechanisms can leverage protocol-level information (e.g., MAC, RLC, PDCP) to enable real-time, adaptive task orchestration across edge and hardware resources.
 
-## Learning-Based Compute–Network Resource Partitioning
+## Learning-Based Compute-Network Resource Partitioning
 
 Wireless systems today manage communication and computation resources separately, resulting in poor efficiency for latency-sensitive AI workloads. I am interested in how learning-based approaches can jointly manage these resources through dynamic co-scheduling, potentially treating them as a unified, adaptive substrate.
 
