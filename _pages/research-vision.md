@@ -5,15 +5,20 @@ permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking Ph.D. opportunities starting in Fall 2027 at the intersection of machine learning and wireless networking systems, with a focus on next-generation wireless communications and intelligent resource management. During my Ph.D., I aim to architect the next generation of Protocol-Driven, AI-Native vRAN systems. My research vision centers on breaking the boundary between telecommunication protocols and computational substrates, achieving a holistic network-compute co-design for 6G.
+I am seeking Ph.D. opportunities starting in Fall 2027 at the intersection of AI-native system architecture and wireless networking. My research interest lies at the intersection of AI-native system architecture and wireless networking, with a focus on rethinking virtualized RAN systems for the 6G era. I am particularly interested in how learning-based methods can be embedded directly into the communication protocol stack, moving beyond the traditional separation between network logic and computation. More broadly, I am curious about how wireless systems can evolve into adaptive, AI-native infrastructures.
 
-## Protocol-Driven Computational Offloading
+## AI-Driven Protocol Orchestration and Offloading
 
-My research focuses on enabling intelligent offloading by integrating deep insights from MAC, RLC, and PDCP protocol states. I aim to design systems that dynamically allocate tasks between general-purpose processors and specialized hardware based on real-time network conditions and protocol-layer signaling. By making AI protocol-aware, I seek to eliminate the data movement wall and ensure deterministic performance for mission-critical wireless tasks.
+Current virtualized RAN systems largely decouple communication protocols from computation, leading to inefficient task offloading and excessive data movement under dynamic conditions. Existing approaches often treat offloading as a static optimization problem, without fully leveraging fine-grained protocol states across layers such as MAC, RLC, and PDCP.
 
-## Intelligence-Aware Resource Partitioning
+I am interested in exploring whether learning-based decision mechanisms can operate directly on protocol-level information to enable real-time, adaptive orchestration of tasks. In particular, I am curious about how such systems could dynamically distribute workloads across CPUs, accelerators, and edge resources while maintaining low-latency and predictable performance.
 
-I explore how the unique requirements of AI workloads, such as memory management for large-scale models at the edge, should reshape wireless resource orchestration. My work involves co-scheduling computational cycles to balance the strict timing of signal processing with the efficiency of AI inference. I investigate how hardware cycles can be treated as a unified resource that adapts to both communication traffic and intelligence-driven demands.
+## Learning-Based Compute–Network Resource Partitioning
+
+Modern wireless systems struggle to efficiently support AI workloads due to the fragmented management of computation and communication resources. This separation leads to suboptimal utilization, especially for latency-sensitive and memory-intensive workloads at the edge.
+
+I am interested in understanding how learning-based or model-driven approaches can jointly manage these resources through dynamic co-scheduling. More broadly, I am curious about whether computation and communication can be treated as a unified, adaptive resource, enabling systems to flexibly support both data transmission and AI inference under real-world constraints.
+
 
 ## Perspective
 
