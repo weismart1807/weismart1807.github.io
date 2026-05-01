@@ -5,7 +5,7 @@ permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking Ph.D. opportunities starting in Fall 2027. My research interest lies at the intersection of AI-native system architecture and wireless networking, with a focus on rethinking vRAN systems for the 6G era. I am particularly interested in how learning-based methods can be embedded directly into the communication protocol stack, moving beyond the traditional separation between network logic and computation.
+I am seeking Ph.D. opportunities starting in Fall 2027. My research interest lies at the intersection of AI-native system architecture and wireless networking, with a focus on rethinking 6G vRAN systems. I am particularly interested in how learning-based methods can be embedded directly into the communication protocol stack, moving beyond the traditional separation between network logic and computation.
 
 ## Learning-Based Compute-Network Resource Partitioning
 
