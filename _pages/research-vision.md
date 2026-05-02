@@ -5,16 +5,10 @@ permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking Ph.D. opportunities starting in Fall 2027. My research interest lies at the intersection of AI-native system architecture and wireless networking, with a focus on rethinking 6G vRAN systems. I am particularly interested in how learning-based methods can be embedded directly into the communication protocol stack, moving beyond the traditional separation between network logic and computation.
+I am seeking a Ph.D. opportunity for Fall 2027 to explore the architectural evolution of AI-native 6G systems. My curiosity lies in whether we can move beyond treating AI as a mere analytical plugin and instead weave intelligence into the very fabric of the virtualized RAN. I aim to investigate how we might dissolve the traditional boundaries between network logic and hardware execution to create a truly compute-network converged architecture.
 
-## Learning-Based Compute-Network Resource Partitioning
+One primary line of my inquiry focuses on the **intelligent co-existence of communication and computation.** As future networks rely on shared hardware to handle both complex signal processing and intensive AI workloads, I am fascinated by the challenge of unified resource management. I hope to discover how learning-based scheduling can navigate the inherent tension between these tasks, ensuring that real-time network functions remain deterministic while maximizing the efficiency of the underlying hardware.
 
-Modern wireless systems increasingly rely on GPUs and accelerators, yet they are not designed to efficiently support co-located RAN processing and AI workloads, leading to resource contention and unpredictable latency. I am interested in how learning-based approaches can enable fine-grained co-scheduling of these workloads on shared hardware, allowing systems to dynamically balance real-time signal processing and AI inference while maintaining performance guarantees.
+Furthermore, I am eager to rethink **deeply integrated protocol orchestration.** I am curious if the internal states of a communication stack can serve as dynamic signals to guide hardware offloading in real-time. By allowing the protocol and the hardware to "talk" to each other through a learning interface, I believe we can minimize unnecessary data movement and build a system that adapts its execution environment in sub-millisecond intervals. 
 
-## AI-Driven Protocol Orchestration and Offloading
-
-Current virtualized RAN systems separate communication protocols from hardware execution, leading to inefficient offloading and excessive data movement. I am interested in whether learning-based mechanisms can use protocol-level signals (e.g., MAC, RLC, PDCP) to guide task offloading between RAN functions and hardware in real time, treating protocol states as signals for dynamic partitioning.
-
-## Perspective
-
-I hope to explore these questions through Ph.D. research, with the goal of bridging machine learning and wireless systems, and contributing to practical, intelligent network architectures.
+My goal is to bridge the gap between theoretical machine learning and practical systems, contributing solutions that are as mathematically grounded as they are deployable in the next generation of specialized architectures.
