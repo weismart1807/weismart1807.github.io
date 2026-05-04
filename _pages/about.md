@@ -29,7 +29,7 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 
 # Research Experience
-* *(Incoming)* **Research Assistant**, starting April 2026
+* **Research Assistant**, April 2026 – Present
   * *National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)*
   * *Focusing on AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
 * **Undergraduate Research Student**, Feb 2024 – Present
