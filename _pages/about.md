@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate researcher at Communication Engineering at [National Central University](https://www.ncu.edu.tw/?Lang=en) (graduating 2026). Currently, I focus on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang) (NCU) and 6G AI-RAN orchestration as a Research Assistant with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) (NTU). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
+I am an undergraduate researcher at Communication Engineering at [National Central University](https://www.ncu.edu.tw/?Lang=en) (graduating 2026). Currently, I focus on AI for wireless resource management under [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang) (NCU) and 6G AI-RAN orchestration as a research assistant with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) (NTU). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and held AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
  
 My research interests focus on **AI-native wireless networking**, **learning-based resource optimization**, and **deep learning for cross-domain applications.**
 
