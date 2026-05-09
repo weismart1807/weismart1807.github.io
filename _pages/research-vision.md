@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "Research Vision"
+title: 
 permalink: /research-vision/
 author_profile: true   
 ---
-## Toward Learning-Native Architectures for 6G Systems
+## Research Vision: Toward Learning-Native Architectures for 6G Systems
 
 I am seeking a Ph.D. opportunity for Fall 2027 to explore the evolution of AI-native 6G systems. I am curious whether we can move beyond AI as a plugin and instead weave intelligence into the fabric of the virtualized RAN, dissolving the boundaries between network logic and hardware to achieve true compute-network convergence.
 
