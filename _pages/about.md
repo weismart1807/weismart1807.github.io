@@ -35,15 +35,15 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 # Research Experience
 
-* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 10px; opacity: 0.9;">**Research Assistant**, Apr 2026 – Present
+* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 9px; opacity: 0.9;">**Research Assistant**, Apr 2026 – Present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
   * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
 
-* <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 11px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Present
+* <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 11.5px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Present
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
   * Focusing on *Deep Reinforcement Learning for Wireless Resource Management*
 
-* <img src="/images/cuhk_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 9px; opacity: 0.9;">**Summer Research Student**, summer 2025
+* <img src="/images/cuhk_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 8.5px; opacity: 0.9;">**Summer Research Student**, summer 2025
   * The Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)
   * Focusing on *Graph Neural Networks for Timing Prediction in Logic Synthesis*
 
