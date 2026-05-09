@@ -1,14 +1,20 @@
 ---
 layout: single
-title: "Research Vision: Toward Learning-Native Architectures for 6G Systems"
+title: "Research Vision"
 permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking a Ph.D. opportunity for Fall 2027 to explore the architectural evolution of AI-native 6G systems. My curiosity lies in **whether we can move beyond treating AI as a mere analytical plugin and instead weave intelligence into the very fabric of the virtualized RAN.** I aim to investigate how we might dissolve the traditional boundaries between network logic and hardware execution to create a truly compute-network converged architecture.
+## Toward Learning-Native Architectures for 6G Systems
 
-One primary line of my inquiry focuses on the **intelligent co-existence of communication and computation.** As future networks rely on shared, heterogeneous hardware to handle both complex signal processing and intensive AI workloads, I am fascinated by the challenge of unified resource management. I hope to discover how learning-based scheduling can navigate the inherent tension between these tasks, ensuring that real-time network functions remain deterministic while maximizing the efficiency of the underlying hardware execution.
+I am seeking a Ph.D. opportunity for Fall 2027 to explore the evolution of AI-native 6G systems. I am curious whether we can move beyond AI as a plugin and instead weave intelligence into the fabric of the virtualized RAN, dissolving the boundaries between network logic and hardware to achieve true compute-network convergence.
 
-Furthermore, I am eager to rethink **deeply integrated protocol orchestration.** I am curious if the internal states of a communication stack can serve as dynamic signals to guide hardware offloading and resource partitioning in real-time. By allowing the protocol and the hardware to “talk” to each other through a learning interface, I believe we can minimize unnecessary data movement and build a system that adapts its execution environment in sub-millisecond intervals.
+My inquiry focuses on two primary dimensions:
 
-My goal is to bridge the gap between theoretical machine learning and practical systems by leveraging stochastic optimization and reinforcement learning. I aspire to contribute solutions that are as mathematically grounded as they are deployable in the next generation of specialized AI-native architectures.
+* **Intelligent Co-existence of Communication and Computation:**
+As future networks rely on shared, heterogeneous hardware, I aim to develop unified resource management using learning-based scheduling. My goal is to ensure real-time determinism while maximizing hardware efficiency under intensive AI and signal-processing workloads.
+
+* **Deeply Integrated Protocol Orchestration:**
+I investigate how internal communication states can serve as dynamic signals for real-time hardware offloading. By enabling protocols and hardware to "talk" through a learning interface, we can minimize data movement and adapt execution environments in sub-millisecond intervals.
+
+Ultimately, I aim to bridge the gap between theoretical machine learning—specifically stochastic optimization and reinforcement learning—and practical systems, delivering solutions that are as mathematically grounded as they are deployable in next-generation architectures.
