@@ -46,23 +46,23 @@ layout: default
 
       <section class="page__content" itemprop="text" style="font-size: 16px;">
         <style>
-          /* 預設樣式（淺色模式） */
+          /* 預設樣式：白色背景下的深灰色 */
           .page__content ul ul li {
-            font-size: 0.9em;
-            color: #666; /* 淺色背景下的深灰色 */
+            font-size: 0.9em !important;
+            color: #444 !important; /* 稍微加深一點確保對比度 */
           }
 
-          /* 自動偵測：當系統或瀏覽器處於「深色模式」時 */
+          /* 當系統切換到深色模式（或背景變黑）時 */
           @media (prefers-color-scheme: dark) {
             .page__content ul ul li {
-              color: #bbb; /* 深色背景下的淺灰色（白中帶灰），清晰且不刺眼 */
+              color: #bbb !important; /* 變回你想要的白中帶灰 */
             }
           }
 
-          /* 如果你的主題是手動切換（例如點擊按鈕變黑），通常會加上特定 class，建議也補上這段 */
+          /* 針對某些主題手動切換的 class */
           .theme--dark .page__content ul ul li,
-          [data-theme="dark"] .page__content ul ul li {
-            color: #bbb;
+          [data-theme='dark'] .page__content ul ul li {
+            color: #bbb !important;
           }
         </style>
         {{ content }}
