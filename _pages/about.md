@@ -36,13 +36,13 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 # Research Experience
 * **Research Assistant**, Apr 2026 – Present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
-  * *Focusing on AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
+  * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
 * **Undergraduate Research Student**, Feb 2024 – Present
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
-  * *Focusing on Deep Reinforcement Learning for Wireless Resource Management*
+  * Focusing on *Deep Reinforcement Learning for Wireless Resource Management*
 * **Summer Research Student**, summer 2025
   * The Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)
-  * *Focusing on Graph Neural Networks for Timing Prediction in Logic Synthesis*
+  * Focusing on *Graph Neural Networks for Timing Prediction in Logic Synthesis*
 
 ---
 
