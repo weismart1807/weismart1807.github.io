@@ -32,13 +32,15 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 ---
 
-<div style="float: right; margin-top: -60px; display: flex; align-items: center; gap: 15px;">
-  <img src="/images/ncu_logo.png" alt="NCU" style="height: 45px; width: auto; filter: grayscale(20%);">
-  <img src="/images/ntu_logo.png" alt="NTU" style="height: 45px; width: auto; filter: grayscale(20%);">
-  <img src="/images/cuhk_logo.png" alt="CUHK" style="height: 45px; width: auto; filter: grayscale(20%);">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1px solid #eee; padding-bottom: 5px; margin-bottom: 15px;">
+  <h1 style="margin: 0; border-bottom: none; font-size: 1.75em;">Research Experience</h1>
+  <div style="display: flex; gap: 12px; padding-bottom: 5px;">
+    <img src="/images/ncu_logo.png" alt="NCU" style="height: 38px; width: auto; filter: grayscale(10%);">
+    <img src="/images/ntu_logo.png" alt="NTU" style="height: 38px; width: auto; filter: grayscale(10%);">
+    <img src="/images/cuhk_logo.png" alt="CUHK" style="height: 38px; width: auto; filter: grayscale(10%);">
+  </div>
 </div>
 
-# Research Experience
 * **Research Assistant**, Apr 2026 – Present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
   * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
