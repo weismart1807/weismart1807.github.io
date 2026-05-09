@@ -34,7 +34,7 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 
 # Research Experience
-* **Research Assistant**, April 2026 – Present
+* **Research Assistant**, Apr 2026 – Present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
   * *Focusing on AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
 * **Undergraduate Research Student**, Feb 2024 – Present
@@ -51,9 +51,9 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 * **Outstanding Student Scholarship**, National Central University, 2026
 *	**Outstanding College Youth Award**, School Level, Taiwan, 2026
 * **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
-    * *Title: "Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks"*
+    * Project: **Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks**
 * **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
-    * *Title: "Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
+    * Project: **Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management**
 
 ---
 
@@ -61,8 +61,8 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 # Industry Experience
 * **AI Software Intern**, Sep - Dec 2025
   * [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht)
-  * *Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by 33%.*
+  * Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by *33%.*
 
 * **AI Software Summer Intern**, Jun – Sep 2024
   * [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/english/)
-  * *Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by 50% for 24/7 automated support.*
+  * Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by *50%* for 24/7 automated support.
