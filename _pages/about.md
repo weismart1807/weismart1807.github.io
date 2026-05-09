@@ -15,7 +15,7 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 ---
 
 <p style="color: #D35400;">
-  I am actively seeking PhD opportunities for Fall 2027, with a focus on AI-native system architecture and next-generation wireless networking.
+  I am actively seeking US ECE PhD opportunities for Fall 2027, with a focus on AI-native system architecture and next-generation wireless networking.
 </p>
 
 
