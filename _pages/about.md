@@ -62,10 +62,10 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 
 # Industry Experience
-* <img src="/images/cht_logo.png" style="float: right; width: 160px; height: auto; margin-left: 30px; margin-top: 0; opacity: 0.9;">**AI Software Intern**, Sep - Dec 2025
+* <img src="/images/cht_logo.png" style="float: right; width: 140px; height: auto; margin-left: 30px; margin-top: 0; opacity: 0.9;">**AI Software Intern**, Sep - Dec 2025
   * [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht)
   * Developed an intelligent project management system with UI/UX design and n8n workflow orchestration, driven by RAG-based agentic models to enhance operational efficiency by *33%.*
 
-* <img src="/images/itri_logo.png" style="float: right; width: 160px; height: auto; margin-left: 30px; margin-top: 0; opacity: 0.9;">**AI Software Summer Intern**, Jun – Sep 2024
+* <img src="/images/itri_logo.png" style="float: right; width: 140px; height: auto; margin-left: 30px; margin-top: 0; opacity: 0.9;">**AI Software Summer Intern**, Jun – Sep 2024
   * [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/english/)
   * Implemented a hybrid edge-cloud architecture using Raspberry Pi and Cloud LLMs for a service robot; optimized backend processing to reduce latency by *50%* for 24/7 automated support.
