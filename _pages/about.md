@@ -14,19 +14,19 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 ---
 
-<p style="color: #D35400;">
+<p style="color: #d33f00;">
   I am actively seeking US ECE PhD opportunities for Fall 2027, with a focus on AI-native system architecture and next-generation wireless networking.
 </p>
 
 
 
 # News
-- **2026.04** – 🏆 Awarded NCU Outstanding Student Scholarship.
+- **2026.04** – Awarded NCU Outstanding Student Scholarship.
 - **2026.04** – Began research assistant at the NTU on 6G AI-RAN Orchestration.
-- **2026.03** – 🏆 Awarded Taiwan Outstanding College Youth Award (School Level).
+- **2026.03** – Awarded Taiwan Outstanding College Youth Award (School Level).
 - **2026.01** – 🎉 **First-author paper accepted to IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
 - **2025.07** – Began summer research at the CUHK on graph learning for EDA.
-- **2025.06** – 🏆 Awarded NSTC Undergraduate Research Fellowship.
+- **2025.06** – Awarded NSTC Undergraduate Research Fellowship.
 
 
 ---
