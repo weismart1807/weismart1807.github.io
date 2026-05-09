@@ -32,6 +32,11 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 ---
 
+<div style="float: right; margin-top: -60px; display: flex; align-items: center; gap: 15px;">
+  <img src="/images/ncu_logo.png" alt="NCU" style="height: 45px; width: auto; filter: grayscale(20%);">
+  <img src="/images/ntu_logo.png" alt="NTU" style="height: 45px; width: auto; filter: grayscale(20%);">
+  <img src="/images/cuhk_logo.png" alt="CUHK" style="height: 45px; width: auto; filter: grayscale(20%);">
+</div>
 
 # Research Experience
 * **Research Assistant**, Apr 2026 – Present
