@@ -32,24 +32,46 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1px solid #eee; padding-bottom: 5px; margin-bottom: 15px;">
-  <h1 style="margin: 0; border-bottom: none; font-size: 1.75em;">Research Experience</h1>
-  <div style="display: flex; gap: 12px; padding-bottom: 5px;">
-    <img src="/images/ncu_logo.png" alt="NCU" style="height: 38px; width: auto; filter: grayscale(10%);">
-    <img src="/images/ntu_logo.png" alt="NTU" style="height: 38px; width: auto; filter: grayscale(10%);">
-    <img src="/images/cuhk_logo.png" alt="CUHK" style="height: 38px; width: auto; filter: grayscale(10%);">
-  </div>
-</div>
 
-* **Research Assistant**, Apr 2026 – Present
-  * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
-  * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
-* **Undergraduate Research Student**, Feb 2024 – Present
-  * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
-  * Focusing on *Deep Reinforcement Learning for Wireless Resource Management*
-* **Summer Research Student**, summer 2025
-  * The Chinese University of Hong Kong, Advisor: [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/)
-  * Focusing on *Graph Neural Networks for Timing Prediction in Logic Synthesis*
+# Research Experience
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- 左側：研究經歷清單 -->
+  <div style="flex: 1;">
+    <ul style="margin-top: 0; padding-top: 0;">
+      <li style="margin-bottom: 1.5em;">
+        <strong>Research Assistant</strong>, Apr 2026 – Present
+        <ul>
+          <li>National Taiwan University, Advisor: <a href="https://homepage.ntu.edu.tw/~hywei/">Prof. Hung-Yu Wei</a></li>
+          <li>Focusing on <i>AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks</i></li>
+        </ul>
+      </li>
+      <li style="margin-bottom: 1.5em;">
+        <strong>Undergraduate Research Student</strong>, Feb 2024 – Present
+        <ul>
+          <li>National Central University, Advisor: <a href="https://sites.google.com/ce.ncu.edu.tw/cwhuang">Prof. Chih-Wei Huang</a></li>
+          <li>Focusing on <i>Deep Reinforcement Learning for Wireless Resource Management</i></li>
+        </ul>
+      </li>
+      <li>
+        <strong>Summer Research Student</strong>, summer 2025
+        <ul>
+          <li>The Chinese University of Hong Kong, Advisor: <a href="https://www.cse.cuhk.edu.hk/~byu/">Prof. Bei Yu</a></li>
+          <li>Focusing on <i>Graph Neural Networks for Timing Prediction in Logic Synthesis</i></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <!-- 右側：垂直排列的校徽 (對齊各項經歷) -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 65px; padding-top: 5px; margin-left: 30px;">
+    <img src="/images/ntu_logo.png" alt="NTU" style="height: 40px; width: auto; opacity: 0.9;">
+    <img src="/images/ncu_logo.png" alt="NCU" style="height: 40px; width: auto; opacity: 0.9;">
+    <img src="/images/cuhk_logo.png" alt="CUHK" style="height: 40px; width: auto; opacity: 0.9;">
+  </div>
+
+</div>
 
 ---
 

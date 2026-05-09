@@ -46,24 +46,7 @@ layout: default
 
       <section class="page__content" itemprop="text" style="font-size: 16px;">
         <style>
-          /* 預設樣式：白色背景下的深灰色 */
-          .page__content ul ul li {
-            font-size: 0.9em !important;
-            color: #444 !important; /* 稍微加深一點確保對比度 */
-          }
-
-          /* 當系統切換到深色模式（或背景變黑）時 */
-          @media (prefers-color-scheme: dark) {
-            .page__content ul ul li {
-              color: #bbb !important; /* 變回你想要的白中帶灰 */
-            }
-          }
-
-          /* 針對某些主題手動切換的 class */
-          .theme--dark .page__content ul ul li,
-          [data-theme='dark'] .page__content ul ul li {
-            color: #bbb !important;
-          }
+          .page__content ul ul li {font-size: 0.9em;}
         </style>
         {{ content }}
 
