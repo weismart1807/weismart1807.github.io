@@ -54,9 +54,9 @@ My research interests focus on **AI-native wireless networking**, **learning-bas
 * **Outstanding Student Scholarship**, National Central University, 2026
 *	**Outstanding College Youth Award**, School Level, Taiwan, 2026
 * **Undergraduate Research Fellowship**, NSTC, Taiwan, 2025–2026 
-    * Project: **Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks**
+    * Project: Adaptive Few-Shot Learning Triggering Mechanism for Resource Allocation in Dynamic Wireless Networks
 * **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
-    * Project: **Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management**
+    * Project: Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management
 
 ---
 
