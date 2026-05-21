@@ -1,18 +1,14 @@
 ---
 layout: single
-title: Toward Learning-Native Architectures for 6G Systems
+title: Hardware-aware Scheduling for AI-and-RAN Coexistence
 permalink: /research-vision/
 author_profile: true   
 ---
 
-I am seeking a Ph.D. opportunity for Fall 2027 to explore the evolution of AI-native 6G systems. **I am curious whether we can move beyond AI as a plugin and instead weave intelligence into the fabric of the virtualized RAN,** dissolving the boundaries between network logic and hardware to achieve true compute-network convergence.
+I am seeking a Ph.D. opportunity for Fall 2027 to explore the evolution of AI-native 6G systems. The next generation of wireless networks will not simply carry data; they will actively **host AI workloads alongside real-time communication tasks on the same physical hardware**.
 
-My research vision focuses on two primary dimensions:
+This convergence introduces a fundamental tension: radio access networks demand **deterministic, sub-millisecond processing**, while AI inference is dynamic, resource-hungry, and unpredictable. Resolving this tension requires more than faster hardware. It requires a new class of scheduling intelligence that understands the structure of the underlying platform and makes decisions accordingly. 
 
-* **Intelligent Co-existence of Communication and Computation:**
-As future networks rely on shared, heterogeneous hardware, I aim to develop unified resource management using learning-based scheduling. My goal is to ensure real-time determinism while maximizing hardware efficiency under intensive AI and signal-processing workloads.
+My research focuses on **hardware-aware scheduling for AI-and-RAN coexistence**, asking how a resource manager can reason about heterogeneous compute constraints to guarantee real-time communication performance while accommodating AI workloads on shared infrastructure. I am particularly interested in learning-based approaches that adapt to dynamic workload patterns without violating the hard timing requirements that wireless systems cannot compromise.
 
-* **Deeply Integrated Protocol Orchestration:**
-I investigate how internal communication states can serve as dynamic signals for real-time hardware offloading. By enabling protocols and hardware to "talk" through a learning interface, we can minimize data movement and adapt execution environments in sub-millisecond intervals.
-
-Ultimately, I aim to bridge the gap between theoretical machine learning and practical communication systems by leveraging stochastic optimization and reinforcement learning. **I aspire to deliver solutions that are as mathematically rigorous as they are deployable in next-generation AI-native architectures.**
+Longer term, I want to move beyond scheduling policies toward **a principled theory of predictability for AI workloads in time-critical wireless systems**, understanding not just how to schedule, but what guarantees are even possible when communication and computation converge at the network edge.
