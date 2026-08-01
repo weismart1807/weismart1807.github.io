@@ -21,6 +21,7 @@ My research interests focus on **hardware-aware scheduling for AI-and-RAN coexis
 
 
 # News
+- **2026.08** – 🎉 **Second-author paper accepted to IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
 - **2026.04** – 🏆 Awarded **NCU Outstanding Student Scholarship.**
 - **2026.04** – 🚀 Began research assistant at the NTU on 6G AI-RAN Orchestration.
 - **2026.03** – 🏆 Awarded **Taiwan Outstanding College Youth Award (School Level).**
