@@ -21,11 +21,11 @@ My research interests focus on **hardware-aware scheduling for AI-and-RAN coexis
 
 
 # News
-- **2026.08** – 🎉 **Second-author paper accepted to IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
+- **2026.08** – 🎉 Second-author paper accepted to **IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
 - **2026.04** – 🏆 Awarded **NCU Outstanding Student Scholarship.**
 - **2026.04** – 🚀 Began research assistant at the NTU on 6G AI-RAN Orchestration.
 - **2026.03** – 🏆 Awarded **Taiwan Outstanding College Youth Award (School Level).**
-- **2026.01** – 🎉 **First-author paper accepted to IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
+- **2026.01** – 🎉 First-author paper accepted to **IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
 - **2025.07** – 🚀 Began summer research at the CUHK on graph learning for EDA.
 - **2025.06** – 🏆 Awarded **NSTC Undergraduate Research Fellowship.**
 
@@ -39,7 +39,7 @@ My research interests focus on **hardware-aware scheduling for AI-and-RAN coexis
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
   * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
 
-* <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 13px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Present
+* <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 13px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Jun 2026
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
   * Focusing on *Deep Reinforcement Learning for Wireless Resource Management*
 
