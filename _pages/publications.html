@@ -5,65 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- Manuscripts and preprints are in preparation. A detailed publication list will be added soon. -->
-
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap" style="margin-bottom: 1.5rem;">
+    You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
-<ul>
-  <li style="margin-bottom: 1.2rem;">
-    <!-- 1. 論文標題（加粗或放大，最吸睛） -->
-    <div style="font-weight: 600; font-size: 1.05rem;">
+<ul style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 1.5rem;">
+    <!-- 1. 會議/期刊名稱 -->
+    <div style="color: #666; font-size: 0.95rem; margin-bottom: 3px;">
+      IEEE Wireless Communications and Networking Conference (<strong>WCNC</strong>), 2026
+    </div>
+
+    <!-- 2. 論文標題 -->
+    <div style="font-weight: 700; font-size: 1.1rem; color: #111; margin-bottom: 3px;">
       Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management
     </div>
-    
-    <!-- 2. 作者列表（突顯自己） -->
-    <div style="color: #333; margin: 2px 0;">
-      <strong>Wei-Jhih Huang</strong>, Jin-Min Yang, Ning Ma, Sheng-Liang Wu, and Chih-Wei Huang
-    </div>
-    
-    <!-- 3. 發表會議與年份（斜體或次要顏色，可加上標籤如 [Conference] 或 [PDF]） -->
-    <div style="color: #555; font-style: italic;">
-      IEEE Wireless Communications and Networking Conference (<strong>WCNC</strong>), 2026
+
+    <!-- 3. 作者列表 -->
+    <div style="color: #0088cc; font-size: 1rem;">
+      <strong style="color: #0088cc;">Wei-Jhih Huang</strong>, 
+      <span>Jin-Min Yang</span>, 
+      <span>Ning Ma</span>, 
+      <span>Sheng-Liang Wu</span>, 
+      <span>Chih-Wei Huang</span>
     </div>
   </li>
 
-  <li style="margin-bottom: 1.2rem;">
-    <div style="font-weight: 600; font-size: 1.05rem;">
+  <li style="margin-bottom: 1.5rem;">
+    <div style="color: #666; font-size: 0.95rem; margin-bottom: 3px;">
+      IEEE Global Communications Conference (<strong>GLOBECOM</strong>), 2026
+    </div>
+
+    <div style="font-weight: 700; font-size: 1.1rem; color: #111; margin-bottom: 3px;">
       PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management
     </div>
-    <div style="color: #333; margin: 2px 0;">
-      Ching-Wei Lin, <strong>Wei-Jhih Huang</strong>, Sheng-Liang Wu, Chih-Wei Huang, Phone Lin, and Shun-Ren Yang
-    </div>
-    <div style="color: #555; font-style: italic;">
-      IEEE Global Communications Conference (<strong>GLOBECOM</strong>), 2026
+
+    <div style="color: #0088cc; font-size: 1rem;">
+      <span>Ching-Wei Lin</span>, 
+      <strong style="color: #0088cc;">Wei-Jhih Huang</strong>, 
+      <span>Sheng-Liang Wu</span>, 
+      <span>Chih-Wei Huang</span>, 
+      <span>Phone Lin</span>, 
+      <span>Shun-Ren Yang</span>
     </div>
   </li>
 </ul>
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
