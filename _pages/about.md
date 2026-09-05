@@ -10,12 +10,12 @@ redirect_from:
 
 I am a Research Assistant working on 6G AI-RAN orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
  
-My research interests focus on **hardware-aware scheduling for AI-and-RAN coexistence**, **learning-based cross-layer resource optimization**, and **adaptive learning under distribution shift**.
+My research focuses on **AI-and-RAN co-scheduling**, **cross-layer wireless optimization**, and **robust learning under distribution shifts**.
 
 ---
 
 <p style="color: #ff8400; background: rgba(211, 63, 0, 0.05); padding: 10px; border-left: 4px solid #ff8400; border-radius: 4px;">
-  I am actively seeking <b>US ECE PhD opportunities</b> for Fall 2027, with a focus on AI-native wireless systems and intelligent network architecture. Please feel free to <a href="weddy0718@gmail.com" style="color: #ff8400; text-decoration: underline;">contact me</a> directly.
+  I am actively seeking <b>US CS/ECE PhD opportunities</b> for Fall 2027, with a focus on AI-native wireless systems. Please feel free to <a href="weddy0718@gmail.com" style="color: #ff8400; text-decoration: underline;">contact me</a> directly.
 </p>
 
 
