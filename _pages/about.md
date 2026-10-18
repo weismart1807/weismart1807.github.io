@@ -21,7 +21,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 
 
 # News
-- **2026.11** – 🚀 Will join Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for high-speed railway 5G networks.
+- **2026.11** – 🚀 Will join Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for 5G networks.
 - **2026.08** – 🎉 Second-author paper accepted to **IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
 - **2026.01** – 🎉 First-author paper accepted to **IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
 - **2025.07** – 🚀 Began summer research at the CUHK on graph learning for EDA.
@@ -34,7 +34,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 
 * <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Starting Nov 2026
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
-  * Focusing on *DRL-based resource scheduling for 5G networks in high-speed railway scenarios*
+  * Focusing on *DRL-based resource scheduling for high-speed railway 5G networks*
 
 * <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 13px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Jun 2026
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
