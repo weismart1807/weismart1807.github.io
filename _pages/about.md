@@ -32,7 +32,7 @@ My research focuses on **AI-and-RAN co-scheduling**, **cross-layer wireless opti
 
 # Research Experience
 
-* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Nov 2026 – Present
+* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Starting Nov 2026
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
   * Focusing on *DRL-based resource scheduling for 5G networks in high-speed railway scenarios*
 
