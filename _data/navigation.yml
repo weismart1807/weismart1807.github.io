@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Vision"
-    url: /research-vision/
+  #- title: "Research Vision"
+  #  url: /research-vision/
 
   - title: "CV"
     url: /files/CV_academic_wei-jhih_huang.pdf

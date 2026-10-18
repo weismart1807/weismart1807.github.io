@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant working on 6G AI-RAN orchestration with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
+I am an incoming Research Assistant with Prof. Hung-Yu Wei [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
  
 My research focuses on **AI-and-RAN co-scheduling**, **cross-layer wireless optimization**, and **robust learning under distribution shifts**.
 
@@ -21,8 +21,8 @@ My research focuses on **AI-and-RAN co-scheduling**, **cross-layer wireless opti
 
 
 # News
+- **2026.11** – 🚀 Will join Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for high-speed railway 5G networks.
 - **2026.08** – 🎉 Second-author paper accepted to **IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
-- **2026.04** – 🚀 Began research assistant at the NTU on 6G AI-RAN Orchestration.
 - **2026.01** – 🎉 First-author paper accepted to **IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
 - **2025.07** – 🚀 Began summer research at the CUHK on graph learning for EDA.
 
@@ -32,9 +32,9 @@ My research focuses on **AI-and-RAN co-scheduling**, **cross-layer wireless opti
 
 # Research Experience
 
-* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Apr 2026 – Present
+* <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Nov 2026 – Present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
-  * Focusing on *AI-RAN Orchestration and Cross-Layer Optimization in 6G Networks*
+  * Focusing on *DRL-based resource scheduling for 5G networks in high-speed railway scenarios*
 
 * <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 13px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Jun 2026
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
