@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at the Wireless Mobile Network Laboratory of National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
+I am a Research Assistant at the Wireless Mobile Network Laboratory of National Taiwan University, advised by [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/). I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
  
 My research interests lie in **learning-based wireless systems**, **radio resource management**, and **mobile edge computing**, toward **AI-native 6G networks**.
 
