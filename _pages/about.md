@@ -35,7 +35,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 
 * <img src="/images/ntu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 6px; opacity: 0.9;">**Research Assistant**, Nov 2026 - present
   * National Taiwan University, Advisor: [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/)
-  * Focusing on *DRL-based resource scheduling for high-speed railway 5G networks*
+  * Focusing on *DRL-based resource scheduling for high-mobility 5G networks*
 
 * <img src="/images/ncu_logo.png" style="float: right; width: 80px; height: auto; margin-left: 30px; margin-top: 13px; opacity: 0.9;">**Undergraduate Research Student**, Feb 2024 – Jun 2026
   * National Central University, Advisor: [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang)
