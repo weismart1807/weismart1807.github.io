@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Research Assistant with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at Wireless Mobile Network Laboratory of National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
+I am a Research Assistant with [Prof. Hung-Yu Wei](https://homepage.ntu.edu.tw/~hywei/) at Wireless Mobile Network Laboratory of National Taiwan University. I received my B.S. in Communication Engineering from National Central University in 2026, where I was advised by [Prof. Chih-Wei Huang](https://sites.google.com/ce.ncu.edu.tw/cwhuang). Previously, I was a summer researcher at CUHK under [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) and completed AI software internships at [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht) and [ITRI](https://www.itri.org.tw/english/).
  
 My research interests lie in **learning-based wireless systems**, **radio resource management**, and **mobile edge computing**, toward **AI-native 6G networks**.
 
@@ -21,7 +21,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 
 
 # News
-- **2026.11** – 🚀 Join Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for 5G networks.
+- **2026.11** – 🚀 Joined Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for 5G networks.
 - **2026.11** – 🎉 Second-author paper accepted to **IEEE TCAD:** *"NUA-Timer++: Timing Prediction for Hierarchical RTL under Non-Uniform Input Arrival Times"*
 - **2026.08** – 🎉 Second-author paper accepted to **IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
 - **2026.01** – 🎉 First-author paper accepted to **IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
