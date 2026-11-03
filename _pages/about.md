@@ -15,7 +15,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 ---
 
 <p style="color: #ff8400; background: rgba(211, 63, 0, 0.05); padding: 10px; border-left: 4px solid #ff8400; border-radius: 4px;">
-  I am actively seeking <b>US CS/ECE PhD opportunities</b> for Fall 2027, with a focus on AI-native wireless systems. Please feel free to <a href="weddy0718@gmail.com" style="color: #ff8400; text-decoration: underline;">contact me</a> directly.
+  I am actively seeking <b>US ECE PhD opportunities</b> for Fall 2027, with a focus on AI-native wireless systems. Please feel free to <a href="weddy0718@gmail.com" style="color: #ff8400; text-decoration: underline;">contact me</a> directly.
 </p>
 
 
