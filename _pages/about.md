@@ -21,7 +21,7 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 
 
 # News
-- **2026.11** – 🚀 Joined Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on DRL-based scheduling for 5G networks.
+- **2026.11** – 🚀 Joined Prof. Hung-Yu Wei’s lab at NTU as a Research Assistant, working on learning-based radio resource management with real-world mobility data.
 - **2026.11** – 🎉 Second-author paper accepted to **IEEE TCAD:** *"NUA-Timer++: Timing Prediction for Hierarchical RTL under Non-Uniform Input Arrival Times"*
 - **2026.08** – 🎉 Second-author paper accepted to **IEEE GLOBECOM 2026:** *"PACI-Net: Physics-Aware Distillation for Explainable Radio Resource Management"*
 - **2026.01** – 🎉 First-author paper accepted to **IEEE WCNC 2026:** *"Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management"*
