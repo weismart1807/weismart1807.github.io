@@ -48,6 +48,12 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 ---
 
 
+# Professional Service
+* **Reviewer**, IEEE Vehicular Technology Conference (VTC2027-Spring)
+
+---
+
+
 # Honors & Awards
 * **Outstanding Student Scholarship**, National Central University, 2026
 *	**Outstanding College Youth Award**, School Level, Taiwan, 2026
@@ -56,11 +62,6 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 * **Honorable Mention**, Undergraduate Department Project Competition, NCU, 2025 
     * Project: Deviation-Aware Trajectory Embedding for Fine-Tuning Triggering in DRL-Based Wireless Network Resource Management
 
----
-
-
-# Professional Service
-* **Reviewer**, IEEE Vehicular Technology Conference (VTC2027-Spring)
 
 ---
 
