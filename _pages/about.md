@@ -59,6 +59,12 @@ My research interests lie in **learning-based wireless systems**, **radio resour
 ---
 
 
+# Professional Service
+* **Reviewer**, IEEE Vehicular Technology Conference (VTC2027-Spring)
+
+---
+
+
 # Industry Experience
 * <img src="/images/cht_logo.png" style="float: right; width: 140px; height: auto; margin-left: 30px; margin-top: 0; opacity: 0.9;">**AI Software Intern**, Sep - Dec 2025
   * [Chunghwa Telecom](https://www.cht.com.tw/en/home/cht)
